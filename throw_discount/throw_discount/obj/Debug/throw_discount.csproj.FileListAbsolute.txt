@@ -1,0 +1,9 @@
+C:\Users\Marinos\Desktop\C#\throw_discount\throw_discount\bin\Debug\throw_discount.exe.config
+C:\Users\Marinos\Desktop\C#\throw_discount\throw_discount\bin\Debug\throw_discount.exe
+C:\Users\Marinos\Desktop\C#\throw_discount\throw_discount\bin\Debug\throw_discount.pdb
+C:\Users\Marinos\Desktop\C#\throw_discount\throw_discount\obj\Debug\throw_discount.Form1.resources
+C:\Users\Marinos\Desktop\C#\throw_discount\throw_discount\obj\Debug\throw_discount.Properties.Resources.resources
+C:\Users\Marinos\Desktop\C#\throw_discount\throw_discount\obj\Debug\throw_discount.csproj.GenerateResource.Cache
+C:\Users\Marinos\Desktop\C#\throw_discount\throw_discount\obj\Debug\throw_discount.csproj.CoreCompileInputs.cache
+C:\Users\Marinos\Desktop\C#\throw_discount\throw_discount\obj\Debug\throw_discount.exe
+C:\Users\Marinos\Desktop\C#\throw_discount\throw_discount\obj\Debug\throw_discount.pdb
